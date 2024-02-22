@@ -1,3 +1,7 @@
 RIDGE RACER TYPE 4
 
+<<<<<<< HEAD
 ridge racer revolution CHANGE
+=======
+rage racer
+>>>>>>> a6add422d71f207d94b2aa9ce1acf4500c7eab33
